@@ -48,10 +48,15 @@ in the client and server folders respectively, you can then navigate to localhos
 
 ## Features (images for each)
 **[Chat](https://socket.io/)** - Implemented using socket.io. 
+
 ![live chat](https://github.com/CaseyQWood/Buckets/blob/master/client/docs/live-chat.gif) 
+
 **[3D Elements](https://threejs.org/)** - Implemented using ThreeJS.  
+
 **[Analytics](https://www.chartjs.org/)** - Charts are styled with CSS, generated with ChartJS.
+
 ![analytics](https://github.com/CaseyQWood/Buckets/blob/master/client/docs/Screen%20Shot%202021-08-15%20at%209.48.57%20PM.png)
+
 **[Biometric Login](https://www.tensorflow.org/)** - Implemented using Tensorflow. Although a good first taste of machine learning, the face-scan is currently just for show as we didn't have time to train the model.
 
 ## Contributors
